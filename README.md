@@ -29,4 +29,4 @@ The game is available for Windows. To play:
 
 ## About
 Even without the source code, the executable demonstrates the basic mechanics and design of this early Unity prototype.  
-It shows experience in 3D game development, shooting mechanics, and simple loot systems.
+Demonstrates 3D game development skills, shooting mechanics, and simple loot systems. 
